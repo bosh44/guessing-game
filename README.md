@@ -1,4 +1,6 @@
-# Guessing Game
+[Guessing Game Repository](http://github.com/bosh44/guessing-game/)
+
+
 This project is a little bash game made for the Unix Workbench course. This repository contains a makefile, this README.md file and a small bash script.
 
 
@@ -16,4 +18,4 @@ Lines in script:
 32
 
 
-Thu Dec  7 22:09:52 STD 2017
+Thu Dec  7 22:20:15 STD 2017
