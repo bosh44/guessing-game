@@ -1,5 +1,7 @@
 README.txt:
-	echo '# Guessing Game' > ./README.md
+	echo "[Guessing Game Repository](http://github.com/bosh44/guessing-game/)" > ./README.md
+	echo '' >> ./README.md
+	echo '' >> ./README.md
 	echo 'This project is a little bash game made for the Unix Workbench course. This repository contains a makefile, this README.md file and a small bash script.' >> ./README.md
 	echo '' >> ./README.md
 	echo '' >> ./README.md
